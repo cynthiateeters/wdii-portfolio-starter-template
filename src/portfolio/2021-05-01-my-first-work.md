@@ -1,6 +1,6 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: My First Work
+author: IDMX Student
 date: 2021-05-01
 tags: ['post']
 image: /assets/portfolio/article-1.jpg

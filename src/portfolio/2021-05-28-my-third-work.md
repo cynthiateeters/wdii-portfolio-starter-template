@@ -1,6 +1,6 @@
 ---
-title: My Third Article
-author: Kevin Powell
+title: My Third Work
+author: IdMX Student
 date: 2021-05-28
 tags: ['post']
 image: /assets/portfolio/article-3.jpg

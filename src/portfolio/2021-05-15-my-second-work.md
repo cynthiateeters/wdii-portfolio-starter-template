@@ -1,6 +1,6 @@
 ---
-title: My Second Article
-author: Kevin Powell
+title: My Second Work
+author: IDMX Student
 date: 2021-05-15
 tags: ["post", "featured"]
 image: /assets/portfolio/article-2.jpg
