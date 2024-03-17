@@ -8,10 +8,8 @@
   <meta name="description" content="Personal author's portfolio site.">
   <meta name="generator" content="Eleventy v2.0.1">
   <title>My Portfolio Page</title>
-  <link rel="preconnect" href="https://res.cloudinary.com">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="shortcut icon" href="/assets/vector.svg" type="image/svg+xml">
-  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
@@ -84,17 +82,7 @@
   </svg>
   <p>© 2024 Company Name. All rights reserved.</p>
 </footer>
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
+
 </body>
 
 </html>
