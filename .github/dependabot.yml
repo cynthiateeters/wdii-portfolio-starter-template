@@ -6,6 +6,8 @@ updates:
       interval: "weekly"
     target-branch: "main"
     open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
     groups:
       patch-and-minor:
         update-types:
